@@ -1,11 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/PRIME-ESTATE)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/PRIME-ESTATE?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/PRIME-ESTATE?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/6HZ4nZmU_pE?style=social)](https://youtu.be/6HZ4nZmU_pE)
-
+  ![GitHub repo size](https://img.shields.io/github/repo-size/schooloftomorrow23/homeverse)
+  ![GitHub stars](https://img.shields.io/github/stars/schooloftomorrow23/homeverse?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/schooloftomorrow23/homeversestyle=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow//schooloftomorrow23/homeversestyle=social)](https://twitter.com/intent/follow?screen_name=/schooloftomorrow23/homeverse)
   <br />
   <br />
   
@@ -39,18 +37,14 @@ To run **PRIME-ESTATE** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/PRIME-ESTATE.git
+sudo git clone https://github.com/schooloftomorrow23/homeverse.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/PRIME-ESTATE.git
+git clone https://github.com/schooloftomorrow23/homeverse.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
